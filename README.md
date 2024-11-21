@@ -6,7 +6,7 @@ Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 🙂 I'm looking for the with Placements in FAANG
 - 📫 How to reach me :
-  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/s-kavya-6424b3258)
+  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s-kavya-6424b3258/)
 - 😄 Pronouns: Techie
 
 

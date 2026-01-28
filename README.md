@@ -4,7 +4,7 @@ Electronics and Communication Engineering
 <img align="right" width="370" height="290" src="https://i.pinimg.com/736x/75/87/df/7587df77ef521cf98057d0028ee983f1.jpg">
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Full Stack Web Development
-- 🙂 I'm looking for the with Placements in FAANG
+- 🙂 I'm looking for the opportunities where i can bring my skills to the reality
 - 📫 How to reach me :
   <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/s-kavya-6424b3258/)
 - 😄 Pronouns: Techie
